@@ -1,4 +1,2 @@
 # Denoising-Deblurring-Image
-The task consists in creating a deblurring deep learning model, aimed to remove gaussian blur and gaussian noise from images.  The model takes a blurred image X and reconstructs the original deblurred image y. 
-
-The dataset is built starting from CIFAR-10 images collection, and its creation is inside the notebooktion set, if needed. 
+The task consists in creating a denoising- deblurring deep learning model, aimed to remove gaussian blur and gaussian noise from images taken from the CIFAR-10 dataset.  So this model takes a noisy-blurred image and reconstruct the original.The dataset is built starting from CIFAR-10 images collection, which are modified with gaussian noise and blur.
